@@ -2,7 +2,6 @@
 
 ## Contact Information
 - **Email**: chiragj2019@gmail.com
-- **Phone**: 7895152883
 - **LinkedIn**: [Chirag Joshi](https://www.linkedin.com/in/chirag-joshi-3b9b68222)
 - **GitHub**: [Chiragj2003](https://github.com/Chiragj2003)
 
